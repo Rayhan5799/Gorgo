@@ -230,6 +230,7 @@ section {
 .footer{
 	background: #292640;
 	width: 100%;
+	margin-top: 80px;
 }
 .fotter-inner{
 	width: 100%;
@@ -241,7 +242,7 @@ section {
     color: #fff;
     text-align: center;
     margin: auto;
-	padding: 100px 370px 0px;
+	padding: 35px 370px 0px;
 }
 .footer .container .p{ display: flex;}
 .footer .container .p a{
